@@ -6,7 +6,7 @@ I graduated in chemical engineering and I’m in the process of transitioning my
 
 ⠀⠀:book: Studies directed to Full-Stack Development
 
-⠀⠀🔭 I'm currently learning Javascript, HTML and CSS
+⠀⠀🔭 I'm currently learning Javascript, HTML5 and CSS
 
 ⠀⠀🤝 I want to collaborate in the future in projects with these languages
 
