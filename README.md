@@ -16,6 +16,6 @@ I graduated in chemical engineering and I’m in the process of transitioning my
 
 ⠀
 
-[![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingnasc&hide=contribs,prs&show_icons=true&theme=great-gatsby&include_all_commits&count_private&line_height=40) ](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingnasc&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingnasc&hide=contribs,prs&show_icons=true&theme=great-gatsby&include_all_commits&count_private&line_height=50) ](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingnasc&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
