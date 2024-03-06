@@ -4,7 +4,7 @@ I graduated in chemical engineering and I’m in the process of transitioning my
 
 ### About me:
 
-⠀⠀:book: Studies directed to Full-Stack Development
+⠀⠀📚: Studies directed to Full-Stack Development
 
 ⠀⠀🔭 I'm currently learning Javascript, HTML5 and CSS
 
