@@ -1,5 +1,5 @@
 ### <b> Hi, I'm Ingrid </b> 👋
-I graduated in chemical engineering and I’m in the process of transitioning my career to information technology.
+I graduated in chemical engineering and now I’m in the process of transitioning my career to information technology.
 ⠀
 
 ### About me:
