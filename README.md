@@ -9,7 +9,7 @@ I have a degree in Chemical Engineering, but now I’m transitioning my career t
   
 ⠀⠀📚 Studies directed to Full-Stack Development
 
-⠀⠀🤝 I want to collaborate in the future in projects with these languages
+⠀⠀🤝 I want to collaborate in the future in projects
 
 ⠀⠀🔭 Currently work in my own online store: https://bookstanshop.com.br/
 <br><br>
