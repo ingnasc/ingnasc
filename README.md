@@ -5,7 +5,7 @@ I have a degree in Chemical Engineering, but now I’m transitioning my career t
 
 ### About me:
 
-⠀⠀😄 My pronouns are her/her
+⠀⠀😄 My pronouns are she/her
   
 ⠀⠀📚 Studies directed to Full-Stack Development
 
