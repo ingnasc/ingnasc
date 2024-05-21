@@ -1,21 +1,37 @@
-### <b> Hi, I'm Ingrid </b> 👋
-I graduated in chemical engineering and now I’m in the process of transitioning my career to information technology.
-⠀
+# <b> Hi there! Welcome to my Github profile</b> 👋
+My name is <b>Ingrid </b>and my nickname is "ingnasc"! 
+<br>
+I have a degree in Chemical Engineering, but now I’m transitioning my career to Information Technology. 
 
 ### About me:
 
-⠀⠀📚: Studies directed to Full-Stack Development
-
-⠀⠀🔭 I'm currently learning Javascript, HTML5 and CSS
+⠀⠀😄 My pronouns are her/her
+  
+⠀⠀📚 Studies directed to Full-Stack Development
 
 ⠀⠀🤝 I want to collaborate in the future in projects with these languages
 
-⠀
+⠀⠀🔭 Currently work in my own online store: https://bookstanshop.com.br/
+<br><br>
 
-[<p align=center><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ingnasc/)
+<img width="400px" align="left" src=https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif/></img>
 
-⠀
+### I'm currently learning:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>⠀⠀<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>⠀⠀<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>⠀⠀<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+<br><br>
 
-[![Ingrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingnasc&hide=contribs,prs&show_icons=true&theme=great-gatsby&include_all_commits&count_private&line_height=50) ](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingnasc&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+### If you want to contact me:
+<div>
+<a href="https://instagram.com/ingridalvesbr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:ingcnasc@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ingnasc" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+<br>
 
+---
 
+<div>
+<a href="https://github.com/ingnasc"></a>
+<p align="center"><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ingnasc&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>⠀⠀
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingnasc&layout=compact&langs_count=7&theme=great-gatsby"/>
+</div>
