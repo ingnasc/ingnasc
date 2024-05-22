@@ -6,13 +6,13 @@ I have a degree in Chemical Engineering, but now I’m transitioning my career t
 ### About me:
 <br>
 ⠀⠀😄 My pronouns are she/her
-<br>
-⠀⠀📚 Studies directed to Full-Stack Development
-<br>
-⠀⠀🤝 I want to collaborate in the future in projects
-<br>
-⠀⠀🔭 Currently work in my own online store: https://bookstanshop.com.br/
 <br><br>
+⠀⠀📚 Studies directed to Full-Stack Development
+<br><br>
+⠀⠀🤝 I want to collaborate in the future in projects
+<br><br>
+⠀⠀🔭 Currently work in my own online store: https://bookstanshop.com.br/
+<br><br><br>
 
 <img width="400px" align="left" src=https://media1.tenor.com/m/8wBCqZH60U8AAAAC/computer-cat.gif/></img>
 
