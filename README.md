@@ -1,16 +1,16 @@
 # <b> Hi there! Welcome to my Github profile</b> 👋
-My name is <b>Ingrid </b>and my nickname is "ingnasc"! 
+My name is <b>Ingrid</b>and my nickname is "ingnasc"! 
 <br>
 I have a degree in Chemical Engineering, but now I’m transitioning my career to Information Technology. 
 
 ### About me:
-
+<br>
 ⠀⠀😄 My pronouns are she/her
-  
+<br>
 ⠀⠀📚 Studies directed to Full-Stack Development
-
+<br>
 ⠀⠀🤝 I want to collaborate in the future in projects
-
+<br>
 ⠀⠀🔭 Currently work in my own online store: https://bookstanshop.com.br/
 <br><br>
 
