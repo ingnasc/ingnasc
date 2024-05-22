@@ -4,7 +4,7 @@ My name is <b>Ingrid</b> and my nickname is "ingnasc"!
 I have a degree in Chemical Engineering, but now I’m transitioning my career to Information Technology. 
 
 ### About me:
-<br>
+
 ⠀⠀😄 My pronouns are she/her
 <br><br>
 ⠀⠀📚 Studies directed to Full-Stack Development
