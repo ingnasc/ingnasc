@@ -6,7 +6,9 @@ I have a degree in Chemical Engineering, but now I’m transitioning my career t
 ### About me:
 ⠀⠀😄 My pronouns are she/her
 <br><br>
-⠀⠀📚 Studies directed to Quality Assurance and Full-Stack Development, my resume: https://ingnasc.github.io/my-resume/
+⠀⠀📚 Studies directed to Quality Assurance and Full-Stack Development
+<br><br>
+⠀⠀👤 Looking for work in the same fields, my resume: https://ingnasc.github.io/my-resume/
 <br><br>
 ⠀⠀🤝 I want to collaborate in the future in projects
 <br><br>
