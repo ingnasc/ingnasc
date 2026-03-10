@@ -1,5 +1,4 @@
 # <b> Hi there! Welcome to my Github profile</b> 👋
-My name is <b>Ingrid</b> and my nickname is "ingnasc"! 
 <br>
 I have a degree in Chemical Engineering, but now I’m transitioning my career to Information Technology. 
 
